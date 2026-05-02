@@ -27,7 +27,3 @@ Satellite-Image-Processing/
 │── images/
 │── output/
 │── README.md
-
-
-* Your Name
-* GitHub: https://github.com/your-username
